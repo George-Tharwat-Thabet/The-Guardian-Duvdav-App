@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Guardian Duvdav</string>
+    <string name="Title_News_Page">Latest Technology News</string>
+    <string name="no_connection">No Internet Image</string>
+    <string name="Author">Author</string>
+    <string name="Date_Post">Date</string>
+    <string name="Author_Icon">📝</string>
+    <string name="Data_Post_Icon">🕒</string>
+    <string name="Title_Id">Title</string>
+    <string name="Title_Icon">📃</string>
+    <string name="No_Internet">You are not connected to the Internet now</string>
+    <string name="noNewsText">Sorry! There is No News Now</string>
+</resources>
